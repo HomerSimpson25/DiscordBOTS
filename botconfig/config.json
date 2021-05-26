@@ -1,0 +1,11 @@
+{
+  "token": "ODM3NDE3MDQyNjA4OTE0NDQy.YIsPZQ.zpgbRLxOwHW15clPBNrbKiiezKU",
+  "prefix": ".",
+  "mongo_path": "mongodb+srv://HomerSimp:Bandyman01@modbot.axllm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "return_if_unknown_command": false,
+  "owners": [
+    "837356797223239701"
+  ],
+  "main_color": "0x2f3136",
+  "show_bot_invite": true
+}
